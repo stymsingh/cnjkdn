@@ -1,0 +1,54 @@
+/** centering the heading **/
+
+h1{
+    text-align: center;
+    text-decoration: underline ;
+    text-orientation: upright;
+}
+
+#count{
+    margin-left: 20px;
+}
+
+/** for styling the table **/
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+th, td {
+    padding: 15px;
+}
+
+caption{
+    font-size: 20px;
+    text-align: center;
+}
+
+/** card styling **/
+
+.card{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+img{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+/** form styling **/
+form{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+button{
+    margin-top: 8px;
+}
